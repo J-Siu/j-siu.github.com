@@ -64540,7 +64540,7 @@ A.XT.prototype={
 $1(a){var s=A.ae1(a)
 s=s.b.h(0,s.c[s.a])
 s.toString
-return new A.mD(new A.ut(null),"New Tab",s.a,null)},
+return new A.mD(new A.ut(null),"Dashboard Demo",s.a,null)},
 $S:404}
 A.a2Q.prototype={
 $1(a){return a.length>0?a[0].toUpperCase()+B.c.c1(a,1).toLowerCase():""},
@@ -64650,7 +64650,7 @@ s.y1$=0
 this.b7(0)},
 L(a,b){var s,r=this,q=null,p=A.ae1(b),o=new A.a5K(p)
 o=A.b([new A.pS(new A.a5H(o,new A.a5J()),new A.a5I(r,p,o,b),q,t.nT)],t.p)
-s=A.iy("New Tab",q,q,q,q,q,q)
+s=A.iy("Dashboard Demo",q,q,q,q,q,q)
 return new A.xt(new A.tT(s,o,new A.My(q,q,1/0,56),q),A.ajH(A.ajE(A.a0n(b).IH(!1),A.iU(new A.q6(r.d,r.ga1C(),r.ga0v(),q),q,q)),q),q)},
 a4K(a){var s,r,q=this,p={}
 p.a=""
@@ -64739,7 +64739,7 @@ A.a5G.prototype={
 $0(){B.b.d3(this.a.d,this.b.c)},
 $S:0}
 A.acc.prototype={
-$1(a){var s,r,q=null,p=A.iy("FFF New Tab",q,q,q,q,B.b_,q),o=A.iU(A.VG(q,!0,B.a_,A.RH(B.bY,new A.vg(A.auV(q,q,new A.pG("/icons/jsiu.dev.black-192-noframe.png",1,q)),q)),48,new A.aca(),B.c6,q,q),q,q),n=A.BY("By: John Siu",A.ae(a).R8.Q,B.b_),m=A.BY("v0.5.0",A.ae(a).R8.Q,B.b_),l=A.BY("Copyright \xa9 2022.",A.ae(a).R8.Q,B.b_),k=A.BY("MIT License",A.ae(a).R8.Q,B.b_),j=A.Rd(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bL(B.Fs,t.l8),q,q,q,q,q,q),i=A.ae(a).R8.Q
+$1(a){var s,r,q=null,p=A.iy("Dashboard Demo",q,q,q,q,B.b_,q),o=A.iU(A.VG(q,!0,B.a_,A.RH(B.bY,new A.vg(A.auV(q,q,new A.pG("/icons/jsiu.dev.black-192-noframe.png",1,q)),q)),48,new A.aca(),B.c6,q,q),q,q),n=A.BY("By: John Siu",A.ae(a).R8.Q,B.b_),m=A.BY("v0.5.0",A.ae(a).R8.Q,B.b_),l=A.BY("Copyright \xa9 2022.",A.ae(a).R8.Q,B.b_),k=A.BY("MIT License",A.ae(a).R8.Q,B.b_),j=A.Rd(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bL(B.Fs,t.l8),q,q,q,q,q,q),i=A.ae(a).R8.Q
 i=i==null?q:i.b
 s=A.ae(a).R8.Q
 r=t.p
@@ -64749,7 +64749,7 @@ A.aca.prototype={
 $0(){return A.PU(A.nu("https://jsiu.dev",0,null))},
 $S:0}
 A.acb.prototype={
-$0(){return A.PU(A.nu("https://github.com/j-siu/fff_new_tab/",0,null))},
+$0(){return A.PU(A.nu("https://github.com/j-siu/healthcheck_dashboard/",0,null))},
 $S:0}
 A.acd.prototype={
 $1(a){return A.ajJ(A.b([A.BY("Long-Press to move.",null,B.b_),A.BY("Double-Tap to edit.",null,B.b_)],t.p),B.uI)},
