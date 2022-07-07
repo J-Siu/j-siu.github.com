@@ -2,7 +2,7 @@
 
 Demo|
 ---|
-[Flutter Firefox New Tab](/fff_new_tab/)|
+[Chrome Tab](/chrome_tab/)|
 [Healthcheck Dashboard](/healthcheck_dashboard/)|
 
 Test|

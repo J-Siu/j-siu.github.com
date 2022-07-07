@@ -1,6 +1,6 @@
 {
-    "name": "fff_new_tab",
-    "short_name": "fff_new_tab",
+    "name": "chrome_tab",
+    "short_name": "chrome_tab",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
