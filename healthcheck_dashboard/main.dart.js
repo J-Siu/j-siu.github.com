@@ -65257,8 +65257,8 @@ G(a,b){var s=this
 A.ca(A.v(s).i(0)+".add():"+A.v(b).i(0))
 s.c.push(b)
 b.a=s.gvD(s)
-s.b.sp(0,new A.ja("add",b,-1))
-s.aY(0)},
+s.aY(0)
+s.b.sp(0,new A.ja("add",b,-1))},
 av(a){var s,r,q,p,o=this,n=o.c
 A.ca(A.v(o).i(0)+".clear():"+n.length);++o.d
 for(s=o.b;n.length>0;){r=B.c.cH(n,0)
@@ -65267,14 +65267,14 @@ p=A.b2(q==null?A.aR(r):q).i(0)
 if($.pD)A.ae7(p+".stop()",null)
 p=r.c
 if(p!=null)p.ak(0)
-s.sp(0,new A.ja("removeAt",r,0))
-o.aY(0)}--o.d
-s.sp(0,new A.ja("clear",null,-1))
-o.aY(0)},
+o.aY(0)
+s.sp(0,new A.ja("removeAt",r,0))}--o.d
+o.aY(0)
+s.sp(0,new A.ja("clear",null,-1))},
 cH(a,b){var s=B.c.cH(this.c,b)
 s.dA(0)
-this.b.sp(0,new A.ja("removeAt",s,b))
 this.aY(0)
+this.b.sp(0,new A.ja("removeAt",s,b))
 return s},
 a7h(a){var s,r,q,p=this
 A.ca(A.v(p).i(0)+".fromJson()");++p.d
@@ -65511,8 +65511,8 @@ A.ca(A.v(s).i(0)+".reorder()");++s.d
 r=s.cH(0,a)
 B.c.hr(s.c,b,r)
 r.a=s.gvD(s)
-s.b.sp(0,new A.ja("insert",r,b))
-s.aY(0);--s.d
+s.aY(0)
+s.b.sp(0,new A.ja("insert",r,b));--s.d
 s.aY(0)},
 a1U(a,b,c){var s=null,r=A.akX(0)
 return A.JE(s,A.q2(B.N,!0,s,A.T1(B.c6,c),B.u,B.a1,0,s,s,s,s,s,B.d3),r,!0)}}
@@ -65625,8 +65625,8 @@ r=s.c
 q=B.c.cY(r,o)
 p=B.c.C(r,o)
 o.dA(0)
-if(p){s.b.sp(0,new A.ja("remove",o,q))
-s.aY(0)}},
+if(p){s.aY(0)
+s.b.sp(0,new A.ja("remove",o,q))}},
 $S:0}
 A.U1.prototype={
 $0(){var s=this.a
