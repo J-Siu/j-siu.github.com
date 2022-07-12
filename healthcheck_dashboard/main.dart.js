@@ -65889,7 +65889,7 @@ A.a8e.prototype={
 $0(){B.c.cH(this.a.d,this.b.c)},
 $S:0}
 A.aeu.prototype={
-$1(a){var s,r,q=null,p=A.et("Healthcheck_Dashboard",q,q,q,q,B.b3,q),o=A.hd(A.FN(q,!0,B.a1,A.Tl(B.c6,new A.vY(A.ay4(q,q,new A.up("Icon-48.png",q,q)),q)),48,new A.aes(),B.bL,q,q),q,q),n=A.CO("By: John Siu",A.ab(a).R8.Q,B.b3),m=A.CO("v0.5.0",A.ab(a).R8.Q,B.b3),l=A.CO("Copyright \xa9 2022.",A.ab(a).R8.Q,B.b3),k=A.CO("MIT License",A.ab(a).R8.Q,B.b3),j=A.Sx(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bT(B.Fi,t.l8),q,q,q,q,q,q),i=A.ab(a).R8.Q
+$1(a){var s,r,q=null,p=A.et("Healthcheck_Dashboard",q,q,q,q,B.b3,q),o=A.hd(A.FN(q,!0,B.a1,A.Tl(B.c6,new A.vY(A.ay4(q,q,new A.up("img/Icon-48.png",q,q)),q)),48,new A.aes(),B.bL,q,q),q,q),n=A.CO("By: John Siu",A.ab(a).R8.Q,B.b3),m=A.CO("v0.5.0",A.ab(a).R8.Q,B.b3),l=A.CO("Copyright \xa9 2022.",A.ab(a).R8.Q,B.b3),k=A.CO("MIT License",A.ab(a).R8.Q,B.b3),j=A.Sx(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bT(B.Fi,t.l8),q,q,q,q,q,q),i=A.ab(a).R8.Q
 i=i==null?q:i.b
 s=A.ab(a).R8.Q
 r=t.p
