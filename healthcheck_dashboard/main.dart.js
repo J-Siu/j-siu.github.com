@@ -65189,7 +65189,8 @@ r.c=A.JB(A.c7(0,0,r.e),new A.SH(r))},
 dA(a){var s
 A.ca(A.v(this).i(0)+".stop()")
 s=this.c
-if(s!=null)s.aj(0)}}
+if(s!=null)s.aj(0)
+this.c=null}}
 A.uE.prototype={
 $0(){},
 $S:9}
@@ -65270,6 +65271,7 @@ p=A.b2(q==null?A.aR(r):q).i(0)
 if($.pB)A.ae7(p+".stop()",null)
 p=r.c
 if(p!=null)p.aj(0)
+r.c=null
 o.aY(0)
 s.sp(0,new A.ja("removeAt",r,0))}--o.d
 o.aY(0)
@@ -65536,7 +65538,7 @@ A.a7V.prototype={
 $0(){B.c.cH(this.a.d,this.b.c)},
 $S:0}
 A.aea.prototype={
-$1(a){var s,r,q=null,p=A.er("Healthcheck_Dashboard",q,q,q,q,B.b3,q),o=A.hb(A.Fz(q,!0,B.a1,A.T1(B.c6,new A.vU(A.axQ(q,q,new A.q8("/icons/icon-192.png",1,q)),q)),48,new A.ae8(),B.bL,q,q),q,q),n=A.CB("By: John Siu",A.ab(a).R8.Q,B.b3),m=A.CB("v0.5.0",A.ab(a).R8.Q,B.b3),l=A.CB("Copyright \xa9 2022.",A.ab(a).R8.Q,B.b3),k=A.CB("MIT License",A.ab(a).R8.Q,B.b3),j=A.Sf(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bR(B.Fi,t.l8),q,q,q,q,q,q),i=A.ab(a).R8.Q
+$1(a){var s,r,q=null,p=A.er("Healthcheck_Dashboard",q,q,q,q,B.b3,q),o=A.hb(A.Fz(q,!0,B.a1,A.T1(B.c6,new A.vU(A.axQ(q,q,new A.q8("/icons/icon-48.png",1,q)),q)),48,new A.ae8(),B.bL,q,q),q,q),n=A.CB("By: John Siu",A.ab(a).R8.Q,B.b3),m=A.CB("v0.5.0",A.ab(a).R8.Q,B.b3),l=A.CB("Copyright \xa9 2022.",A.ab(a).R8.Q,B.b3),k=A.CB("MIT License",A.ab(a).R8.Q,B.b3),j=A.Sf(q,q,q,q,q,q,q,q,q,q,q,q,q,new A.bR(B.Fi,t.l8),q,q,q,q,q,q),i=A.ab(a).R8.Q
 i=i==null?q:i.b
 s=A.ab(a).R8.Q
 r=t.p
